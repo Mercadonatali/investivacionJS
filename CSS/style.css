@@ -1,0 +1,37 @@
+body{
+    font-family: 'Times New Roman', Times;
+    margin: 0;
+}
+header{
+    display: flex;
+    height: 100px;
+    background-color: rgb(212, 150, 224);
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+}
+
+.logo{
+    display: flex;
+    height: 100px;
+}
+
+#parent{
+    background-color: rgb(167, 167, 167);
+    height: 1000px;
+    
+}
+
+.titulo{
+    font-family: sans-serif;
+    font-size:20; 
+    display: flex;
+}
+.respuesta1{
+    font-family: sans-serif;
+    font-size: 20;
+}
+.ver{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+}
