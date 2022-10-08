@@ -18,7 +18,7 @@ header{
 
 #parent{
     background-color: rgb(167, 167, 167);
-    height: 1000000px;
+    height: auto;
     
 }
 .titulo{
@@ -161,4 +161,32 @@ header{
     font-family:'Times New Roman', Times, serif ;
     font-size:12;
     margin: 30px; 
+}
+.respuesta10{
+    font-family: sans-serif;
+    font-size:20;
+    margin: 20px;
+}
+
+.a{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+    margin: 30px;  
+}
+
+.b{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+    margin: 30px; 
+}
+.c{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+    margin: 30px; 
+}
+footer{
+    background-color: violet; 
+    align-items: center;
+
+
 }
