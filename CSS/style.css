@@ -18,10 +18,9 @@ header{
 
 #parent{
     background-color: rgb(167, 167, 167);
-    height: 1000px;
+    height: 1000000px;
     
 }
-
 .titulo{
     font-family: sans-serif;
     font-size:20; 
@@ -34,4 +33,30 @@ header{
 .ver{
     font-family:'Times New Roman', Times, serif ;
     font-size:12;
+}
+.respuesta2{
+    font-family: sans-serif;
+    font-size:20;
+}
+.forma{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+}
+.img1{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+    margin: 100px;
+}
+
+.img2{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+    margin: 100px;
+    
+}
+.img3{
+    font-family:'Times New Roman', Times, serif ;
+    font-size:12;
+    margin: 100px; 
+
 }
